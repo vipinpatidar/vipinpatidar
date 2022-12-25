@@ -1,6 +1,6 @@
 ## Hii there 👋
 
-## About Me 👩‍💼
+## About Me 🤵‍♂️
 
 - 🔭 I’m Vipin Patidar, currently looking for a Web development job as Frontend developer
 - 🌱 I’m currently learning React.Js and Node.Js
