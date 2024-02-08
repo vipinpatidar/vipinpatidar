@@ -4,7 +4,7 @@
 
 - 🔭 I’m Vipin Patidar, currently looking for a Web development job.
 - 🌱 I’m currently learnig Next.js
-- 👯 I’m looking to collaborate on forntend projects
+- 👯 I’m looking to collaborate on projects
 - 💻 I’m a FullStack Developer 
 - 🎓 I graduated in 2018 from JECRC, Jaipur (B.Tech, EE)
 - 💬 Ask me about HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Node.js, MonogoDb, APIs
